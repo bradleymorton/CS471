@@ -13,7 +13,6 @@ using std::endl;
 #define CATCH_CONFIG_FAST_COMPILE
 #define CATCH_CONFIG_RUNNER
 #include "catch.hpp"
-#include "test.cpp"
 
 
 
